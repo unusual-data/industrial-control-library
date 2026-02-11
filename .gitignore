@@ -1,0 +1,13 @@
+# TwinCAT Temporary Files
+*.tpy
+*.tcl
+*.bak
+*.tnzip
+*.compileinfo
+_Boot/
+_CompileInfo/
+
+# Codesys
+*.opt
+*.profile
+
